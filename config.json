@@ -77,7 +77,7 @@
               "network":"ws",
               "security":"none",
               "wsSettings":{
-                  "path":"/vless"
+                  "path":"/4828f8d0-2165-4050-8cf2-22b746f10c72vless"
               }
           },
           "sniffing":{
@@ -105,7 +105,7 @@
           "streamSettings":{
               "network":"ws",
               "wsSettings":{
-                  "path":"/vmess"
+                  "path":"/4828f8d0-2165-4050-8cf2-22b746f10c72vmess"
               }
           },
           "sniffing":{
@@ -133,7 +133,7 @@
               "network":"ws",
               "security":"none",
               "wsSettings":{
-                  "path":"/trojan"
+                  "path":"/4828f8d0-2165-4050-8cf2-22b746f10c72trojan"
               }
           },
           "sniffing":{
@@ -162,7 +162,7 @@
           "streamSettings":{
               "network":"ws",
               "wsSettings":{
-                  "path":"/shadowsocks"
+                  "path":"/4828f8d0-2165-4050-8cf2-22b746f10c72shadowsocks"
               }
           },
           "sniffing":{
